@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Colorado4Sure
 - 👀 I’m interested in Full-stack Job
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently Open to learning.
 - 💞️ I’m looking to collaborate on nodeJs
 - 📫 How to reach me whatsapp +2347086936654
 
